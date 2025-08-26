@@ -1,3 +1,4 @@
 bloodhound-opengraph
 jsonschema
 tqdm
+jwt
