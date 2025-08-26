@@ -1,0 +1,9 @@
+*.pem
+certs/
+data/
+run.sh
+
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
